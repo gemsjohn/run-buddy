@@ -80,6 +80,13 @@ section {
 }
 /* Hero Style End */
 
+.hero-cta {
+  color: #fce138;
+  padding: 20px;
+  width: 500px;
+  text-align: right;
+}
+
 .hero-form {
   border: 3px solid #024e76;
   background-color: #fce138;
@@ -249,3 +256,4 @@ section {
 .contact-info address a {
     color: #fce138;
 }
+
